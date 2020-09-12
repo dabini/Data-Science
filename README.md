@@ -1,6 +1,6 @@
 # Data-Science
 
-> `datascienceschool.net` 을 보고 따라하는 공부!
+> `datascienceschool.net` 참고
 
 - jupyter notebook을 사용
 
